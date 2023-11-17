@@ -1,6 +1,6 @@
 *Team name*: UVA trash(wo)men
 
-*Members*: Meg, Nora, Jesper
+*Members*: Meg Kitamura, Nora Svensson Hahr, Jesper Brinkhof
 
 ## Investigating waste management in Gaza
 
